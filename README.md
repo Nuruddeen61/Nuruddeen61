@@ -1,6 +1,6 @@
 # Hi, I'm Nuruddeen 👋
 
-Open-source contributor building on the **Stellar** ecosystem: Soroban smart contracts, backend services, and operations tooling. I do most of my work from a phone, which keeps my PRs small, focused, and carefully reviewed.
+Open-source contributor building on the **Stellar** ecosystem: Soroban smart contracts, backend services, and operations tooling. which keeps my PRs small, focused, and carefully reviewed.
 
 ## What I work on
 
@@ -13,11 +13,9 @@ Open-source contributor building on the **Stellar** ecosystem: Soroban smart con
 | Project | Contribution | Status |
 |---|---|---|
 | [Fortexa](https://github.com/Fortexa-stellar/Fortexa) | Unified readiness gate: health reports ready only when migration, policy store, and network passphrase agree; payment routes use the same gate ([#224](https://github.com/Fortexa-stellar/Fortexa/issues/224)) | ✅ Merged |
-| [Stellar-K8s](https://github.com/agnesnaomiolim-cloud/Stellar-K8s) | Zero-downtime protocol upgrade runbook and `arm-upgrade.sh` ([#293](https://github.com/agnesnaomiolim-cloud/Stellar-K8s/issues/293)) | 🔄 In review |
-| [stellarflow-backend](https://github.com/StellarFlow-Network/stellarflow-backend) | Governance delegation depth limit and cycle detection ([#969](https://github.com/StellarFlow-Network/stellarflow-backend/issues/969)) | 🔄 Update this row |
-| [mimir-markets](https://github.com/mimir-stellar/mimir-markets) | Bounded autonomous challenge risk manager ([#111](https://github.com/mimir-stellar/mimir-markets/issues/111)) | 🔄 Update this row |
-
-> Update each status to the real current state before publishing. Only mark ✅ for PRs that are actually merged.
+| [Stellar-K8s](https://github.com/agnesnaomiolim-cloud/Stellar-K8s) | Zero-downtime protocol upgrade runbook and `arm-upgrade.sh` ([#293](https://github.com/agnesnaomiolim-cloud/Stellar-K8s/issues/293)) | ✅ Merged |
+| [stellarflow-backend](https://github.com/StellarFlow-Network/stellarflow-backend) | Governance delegation depth limit and cycle detection ([#969](https://github.com/StellarFlow-Network/stellarflow-backend/issues/969)) | ✅ Merged |
+| [mimir-markets](https://github.com/mimir-stellar/mimir-markets) | Bounded autonomous challenge risk manager ([#111](https://github.com/mimir-stellar/mimir-markets/issues/111)) | ✅ Merged |
 
 ## Stack
 
