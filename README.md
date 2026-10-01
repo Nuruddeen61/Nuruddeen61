@@ -32,4 +32,4 @@ Open-source contributor building on the **Stellar** ecosystem: Soroban smart con
 ## Contact
 
 - GitHub: [@Nuruddeen61](https://github.com/Nuruddeen61)
-- Add your preferred contact (email, X, Telegram) here
+- Add your preferred contact (email)[nuruddeenabubakarabubakar61@gmail.com], (Telegram)[@NuruddeenA97234
